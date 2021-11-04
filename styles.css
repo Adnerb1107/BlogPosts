@@ -32,3 +32,33 @@ body{
     color: #fff;
 
 }
+.footer{
+    background-color: rgb(211, 129, 129);
+    height: 560px;
+    width: 560px;
+    position: relative;    
+    border-radius: 50%;
+    transition: all ease-in 0.3s;
+    
+
+}
+footer{    
+    height: 280px;
+    width: 280px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    overflow: hidden;
+}
+.texto{
+    position: absolute;
+    right: 300px;
+    bottom: 360px;
+    color: #fff;
+    
+}
+.footer:hover{
+    background-color: #333;
+    cursor: pointer;
+    
+}
