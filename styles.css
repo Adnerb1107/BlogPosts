@@ -18,6 +18,10 @@ body{
 }
 #post{
     padding: 1em;
+    background-image: url("https://res.cloudinary.") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 #container h1{
     font-size: 20px;
