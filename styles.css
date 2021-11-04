@@ -65,7 +65,6 @@ li{
 .navbar-item:hover{
     cursor: pointer;
     text-decoration: underline;
-<<<<<<< HEAD
 
 }
 .footer{
@@ -97,6 +96,4 @@ footer{
     background-color: #333;
     cursor: pointer;
     
-=======
->>>>>>> 8e0bebb2a22fd6db11a2d53353afab58603c47c8
 }
