@@ -18,6 +18,10 @@ body{
 }
 #post{
     padding: 1em;
+    background-image: url("https://res.cloudinary.") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 #container h1{
     font-size: 20px;
@@ -96,4 +100,14 @@ footer{
     background-color: #333;
     cursor: pointer;
     
+}
+.container_image{
+    display: flex;
+    justify-content: center;
+}
+.imagen-property{
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    height: 200px;
+
 }
