@@ -97,3 +97,13 @@ footer{
     cursor: pointer;
     
 }
+.container_image{
+    display: flex;
+    justify-content: center;
+}
+.imagen-property{
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    height: 200px;
+
+}
