@@ -25,7 +25,7 @@ body{
 }
 #header{
     padding: 0.5em;
-    background-color: peru;
+    background-color: #333;
     font-weight: bold;
     font-size: 22px;
     margin:0;    
