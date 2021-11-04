@@ -75,9 +75,10 @@ li{
     background-color: rgb(211, 129, 129);
     height: 560px;
     width: 560px;
-    position: relative;    
+    position: fixed;    
     border-radius: 50%;
     transition: all ease-in 0.3s;
+    
     
 
 }
