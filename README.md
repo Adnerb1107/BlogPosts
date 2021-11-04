@@ -1,2 +1,2 @@
 # BlopPosts
-this is a projecto to save posts
+this is a project to practice git and github
